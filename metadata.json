@@ -1,0 +1,6 @@
+{
+  "name": "Career Roadmap Generator",
+  "description": "Personalized Skill Path & Progress Tracking Platform with interactive roadmaps, skill assessment, and learning resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
